@@ -5,14 +5,14 @@ export const Delete = () => {
   return (
     <div
     style={{
-        backgroundImage: 'url("https://www.shutterstock.com/image-vector/collection-note-paper-do-list-600nw-2288989745.jpg")',
+        backgroundImage: 'url("https://i.pinimg.com/1200x/8c/50/2b/8c502be29c145441739ff32d8d55fefe.jpg")',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         minHeight: '100vh'
       }} 
     >
         <Nav />
-        <div className="container">
+        <div className="container-fluid">
             <div className="row">
                 <div className="col-col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 col-xxl-12">
                     <div className="row g-3">
